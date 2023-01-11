@@ -1,10 +1,10 @@
 # Crash Course: Build a Headless WordPress App with Next.js and WPGraphQL
 
-This crash course is a part of WP Engine's Headless Developer Roadmap. It covers the basics of creating a headless WordPress site using Next.js and WPGraphQL. You can find a step-by-step guide on the WP Engine Developer Relations site. By the end of the course, you will be able to:
-- Create static and dynamic routes in Next.js
-- Use the GraphiQL IDE to compose GraphQL queries
-- Use Apollo Client fetch data in your app
-- Choose appropriate Next.js rendering methods based on your content
+Este curso intensivo faz parte do roteiro do desenvolvedor sem cabeça do WP Engine. Ele cobre os fundamentos da criação de um site WordPress headless usando Next.js e WPGraphQL. Você pode encontrar um guia passo a passo no site WP Engine Developer Relations. Ao final do curso, você será capaz de:
+- Crie rotas estáticas e dinâmicas em Next.js
+- Use o GraphiQL IDE para compor consultas GraphQL
+- Use os dados de busca do Apollo Client em seu aplicativo
+- Escolha os métodos apropriados de renderização do Next.js com base no seu conteúdo
 
 
 [✍️ Read the step-by-step tutorial](https://developers.wpengine.com/blog/crash-course-build-a-simple-headless-wordpress-app-with-next-js-wpgraphql)
@@ -17,8 +17,3 @@ Follow along with the blog post, and run the following commands to clone this re
     cd crash-course-headless-wp-next-wpgraphql
     npm install
     npm run dev
-
-
-## Headless WordPress Hosting with Atlas
-
-WP Engine's Atlas platform provides a performant and user-friendly hosting platform for headless WordPress and Node-based JavaScript apps. [Create a free sandbox account](https://wpengine.com/atlas/) to try the platform. 
